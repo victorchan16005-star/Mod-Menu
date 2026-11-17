@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="mm_bg">#FF12121A</color>
+    <color name="mm_surface">#FF1B1B27</color>
+    <color name="mm_surface_alt">#FF262638</color>
+    <color name="mm_purple">#FF8B5CF6</color>
+    <color name="mm_purple_dim">#668B5CF6</color>
+    <color name="mm_blue">#FF3B82F6</color>
+    <color name="mm_text">#FFF2F2F7</color>
+    <color name="mm_text_dim">#FF9A9AB0</color>
+    <color name="mm_ok">#FF34D399</color>
+    <color name="mm_warn">#FFFBBF24</color>
+    <color name="mm_error">#FFF87171</color>
+</resources>
